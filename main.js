@@ -8,4 +8,4 @@ c1.decrement();
 c1.decrement();  
 console.log("Info3:",c1.counter); // 0  
 inc();
-console.log("Info3:",c1.counter); // 1
+console.log("Info4:",c1.counter); // 1
