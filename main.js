@@ -7,3 +7,5 @@ console.log("Info2:",c1.counter); // 2
 c1.decrement();  
 c1.decrement();  
 console.log("Info3:",c1.counter); // 0  
+inc();
+console.log("Info3:",c1.counter); // 1
